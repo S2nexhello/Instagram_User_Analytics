@@ -28,3 +28,6 @@ User Engagement: Investors want to know if users are still active and posting on
 Your Task: Calculate the average number of posts per user on Instagram. Also, provide the total number of photos on Instagram divided by the total number of users.
 Bots & Fake Accounts: Investors want to know if the platform is crowded with fake and dummy accounts.
 Your Task: Identify users (potential bots) who have liked every single photo on the site, as this is not typically possible for a normal user.
+
+
+Download ----------------->    https://drive.google.com/file/d/1YgLIzukQLB_FrAzZp_5rggE8XEfH71G2/view?usp=drive_link
